@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-gooddata",
-  "version": "3.0.1",
+  "version": "3.0.1-alpha-xmort-pdo-bb-1647-upgrade-stylint-2019-08-09T14-30-05-714Z",
   "description": "GoodData CSS Style Guide",
   "main": ".stylelintrc",
   "scripts": {
@@ -20,7 +20,7 @@
     "node": ">= 4"
   },
   "dependencies": {
-    "stylelint": "8.1.1",
+    "stylelint": "10.1.0",
     "stylelint-checkstyle-formatter": "0.1.0",
     "stylelint-config-standard": "17.0.0",
     "stylelint-order": "0.7.0",
